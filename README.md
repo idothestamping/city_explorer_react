@@ -25,15 +25,15 @@ city_explorer_react (repository)
 
 ## Time Estimation to Complete
 ```
-Number and name of feature: City Explorer Frontend for https://github.com/idothestamping/lab-07-back-end
+Number and name of feature: Added Basic Scaffold
 
 Estimate of time needed to complete: 60min
 
 Start time: 0930
 
-Finish time: 
+Finish time: 1015
 
-Actual time needed to complete: 
+Actual time needed to complete: 45min
 ```
 
 ## Credits:
