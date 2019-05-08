@@ -1,4 +1,4 @@
-# city_explorer_react
+# City Explorer React App
 
 ## Description:
 This is the React version of City Explorer
