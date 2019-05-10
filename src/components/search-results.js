@@ -5,7 +5,7 @@ export const SearchResults = props => {
 
     return(
       <>
-      <div className="column-container hide">
+      <div className="column-container">
         <section>
           <ul className="weather-results">
           <Weather value={props.weather}/>
