@@ -31,13 +31,13 @@ city_explorer_react (repository)
 
 ## Time Estimation to Complete
 ```
-Number and name of feature: Added Basic Scaffold
+Number and name of feature: SASS
 
 Estimate of time needed to complete: 60min
 
-Start time: 0930
+Start time: 1130
 
-Finish time: 1015
+Finish time: 1215
 
 Actual time needed to complete: 45min
 ```

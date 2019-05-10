@@ -4,8 +4,9 @@ class Map extends React.Component {
 
   render() {
     let location = this.props.LngLat.locationResult;
+    console.log('location ', location);
 
-    let mapUrl = `https://maps.googleapis.com/maps/api/staticmap?center=${location.lat},${location.lng}&zoom=13&size=600x300&maptype=roadmap
+    let mapUrl = `https://maps.googleapis.com/maps/api/staticmap?center=${location.latitude},${location.longitude}&zoom=13&size=600x300&maptype=roadmap
     &key=${process.env.REACT_APP_GEOCODE_API_KEY}`;
 
     let mapImg;
